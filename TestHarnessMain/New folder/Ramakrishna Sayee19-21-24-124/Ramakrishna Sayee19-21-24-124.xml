@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<testRequest>
+  <author>Ramakrishna Sayee</author>
+  <test name="First Test">
+    <testDriver>MarksTestDriver.dll</testDriver>
+    <library>CourseMarks.dll</library>
+  </test>
+  <test name="Second Test">
+    <testDriver>ResultTestDriver.dll </testDriver>
+    <library>CourseResults.dll</library>
+  </test>
+</testRequest>

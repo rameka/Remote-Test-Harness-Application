@@ -1,0 +1,25 @@
+Final Log
+===================
+Test RequestName::Ramakrishna Sayee23-25-01-503.xml
+===================
+Test:1
+	TestAuthor:Ramakrishna Sayee
+	TestName:First Test
+	TimeStamp:11/23/2016 11:25:02 PM
+	TestDriver:MarksTestDriver.dll
+	TestStatus:Test Passed
+	Libraries:
+		CourseMarks.dll
+Test Result Log:
+		Test case passed for the test case, marks=45
+Test:2
+	TestAuthor:Ramakrishna Sayee
+	TestName:Second Test
+	TimeStamp:11/23/2016 11:25:02 PM
+	TestDriver:ResultTestDriver.dll 
+	TestStatus:Test Failed
+	Libraries:
+		CourseResults.dll
+Test Result Log:
+		Test case failed for the test case, marks=45
+
